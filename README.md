@@ -12,23 +12,6 @@
 
   <!-- Línea Neón Animada -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-  <br/><br/>
-
-  <!-- TERMINAL HERO: Retrato ASCII + Wordmark 3D (370px + 490px = 860px) -->
-  <table border="0">
-    <tr>
-      <td valign="top">
-        <img src="./profile-ascii.svg" width="370" alt="Jesús David — Retrato ASCII" />
-      </td>
-      <td valign="top">
-        <img src="./wordmark.svg" width="490" alt="JULIO — 3D Wordmark ASCII" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br/>
@@ -125,10 +108,17 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=D4AF37&vCenter=true&width=500&lines=📊+Telemetría+de+GitHub" alt="Telemetría" />
 
-<div align="center">
-  <!-- Mapa de calor animado local (Sin dependencias externas que se caigan, 860px) -->
-  <img src="./contrib-heatmap.svg" width="860" alt="Heatmap de Contribuciones Autónomo" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=11julio11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=11julio11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11julio11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br/>
 <div align="center">
